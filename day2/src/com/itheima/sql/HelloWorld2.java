@@ -16,3 +16,4 @@ public class HelloWorld2 {
 }//mysql 密码
 new
 new2
+new3
