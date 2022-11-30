@@ -8,7 +8,7 @@ public class yunsuanfu {
         System.out.println(123 / 10);
         Scanner sc = new Scanner(System.in);
         System.out.println("请输入数字");
-        int number = sc.nextInt();
+        int number = sc.nextInt();4
         System.out.println(number);
     }
 }
